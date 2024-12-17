@@ -1,0 +1,2 @@
+# MaaRandomDice
+WTFPL
